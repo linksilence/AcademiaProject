@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms_Academia", "Forms_Academia.csproj", "{17AD4D05-9DC8-4415-9B30-2F0E7B829A7E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador_FormsAcademia", "E:\Arquivo.Net\repos\Forms_Academia\Instalador\Instalador_FormsAcademia\Instalador_FormsAcademia.vdproj", "{94044FFA-5590-48C4-AFAF-538D89D58ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17AD4D05-9DC8-4415-9B30-2F0E7B829A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AD4D05-9DC8-4415-9B30-2F0E7B829A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AD4D05-9DC8-4415-9B30-2F0E7B829A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AD4D05-9DC8-4415-9B30-2F0E7B829A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94044FFA-5590-48C4-AFAF-538D89D58ADC}.Debug|Any CPU.ActiveCfg = Debug
+		{94044FFA-5590-48C4-AFAF-538D89D58ADC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD68AC1A-42CD-4C9D-BC78-8398CCCF331F}
+	EndGlobalSection
+EndGlobal

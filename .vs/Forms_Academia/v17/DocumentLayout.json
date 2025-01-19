@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\source\\repos\\Forms_Academia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17AD4D05-9DC8-4415-9B30-2F0E7B829A7E}|Forms_Academia.csproj|c:\\users\\danie\\source\\repos\\forms_academia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17AD4D05-9DC8-4415-9B30-2F0E7B829A7E}|Forms_Academia.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AD4D05-9DC8-4415-9B30-2F0E7B829A7E}|Forms_Academia.csproj|C:\\Users\\danie\\source\\repos\\Forms_Academia\\forms_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AD4D05-9DC8-4415-9B30-2F0E7B829A7E}|Forms_Academia.csproj|solutionrelative:forms_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AD4D05-9DC8-4415-9B30-2F0E7B829A7E}|Forms_Academia.csproj|C:\\Users\\danie\\source\\repos\\Forms_Academia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AD4D05-9DC8-4415-9B30-2F0E7B829A7E}|Forms_Academia.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AD4D05-9DC8-4415-9B30-2F0E7B829A7E}|Forms_Academia.csproj|C:\\Users\\danie\\source\\repos\\Forms_Academia\\turmas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AD4D05-9DC8-4415-9B30-2F0E7B829A7E}|Forms_Academia.csproj|solutionrelative:turmas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AD4D05-9DC8-4415-9B30-2F0E7B829A7E}|Forms_Academia.csproj|C:\\Users\\danie\\source\\repos\\Forms_Academia\\querys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AD4D05-9DC8-4415-9B30-2F0E7B829A7E}|Forms_Academia.csproj|solutionrelative:querys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Forms_inicio.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Forms_Academia\\Forms_inicio.cs",
+              "RelativeDocumentMoniker": "Forms_inicio.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\Forms_Academia\\Forms_inicio.cs",
+              "RelativeToolTip": "Forms_inicio.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T22:52:29.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Forms_Academia\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\Forms_Academia\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T22:52:13.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Forms_Academia\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\Forms_Academia\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T22:04:13.055Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Turmas.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Forms_Academia\\Turmas.cs",
+              "RelativeDocumentMoniker": "Turmas.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\Forms_Academia\\Turmas.cs",
+              "RelativeToolTip": "Turmas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T21:43:13.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Querys.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\Forms_Academia\\Querys.cs",
+              "RelativeDocumentMoniker": "Querys.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\Forms_Academia\\Querys.cs",
+              "RelativeToolTip": "Querys.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:44:30.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
